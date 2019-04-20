@@ -1,0 +1,31 @@
+.div-div{
+    width: 100%;
+    height: 656px;
+    background: brown;
+
+}
+.div1{
+width: 100%;
+height: 70%;
+background: red;
+}
+.div2{
+    width: 100%;
+    height: 30%;
+    background: chartreuse;
+
+}
+.div2-sec{
+    width: 100%;
+    text-align: center;
+    height: 50%;
+    background: cyan;
+}
+.div2-sec-1{
+    width: 50%;
+    height: 100%;
+    float: left;
+    border: 2px solid wheat;
+    background: coral;
+
+}
